@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Harness Design"
+  short_description: "Design, scaffold, and audit agent harness files."
+  default_prompt: "Design or audit an Agent Harness for this repository."
