@@ -1,0 +1,11 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Local/editor noise
+.DS_Store
+Thumbs.db
+
+# Uploaded/generated source archives
+agent-harness-spec-files.zip
+zi6FyPNe
